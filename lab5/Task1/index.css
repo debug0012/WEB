@@ -1,0 +1,30 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(10, auto);
+    gap: 5px;
+    width: max-content;
+}
+
+
+.button {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(233, 228, 228);
+    border: 1px solid;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+input {
+    margin-top: 2em;
+    
+}

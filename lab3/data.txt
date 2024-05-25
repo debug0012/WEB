@@ -1,0 +1,20 @@
+Прізвище: Алексеєв
+Iм'я: Дмитро
+Вiк: 20
+E-mail: dimaha508@gmail.com
+
+Прізвище: Манжула
+Iм'я: Назар
+Вiк: 21
+E-mail: mazhulanazar89@gmail.com
+
+Прізвище: Дацків
+Iм'я: Тарас
+Вiк: 20
+E-mail: taras_boo22@gmail.com
+
+Прізвище: Стецюк
+Iм'я: Олександр
+Вiк: 19
+E-mail: stetsiuk_nazar_04@gmail.com
+
